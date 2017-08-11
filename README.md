@@ -1,1 +1,1 @@
-##Example of React + Redux usage
+Example of React + Redux usage
